@@ -1,4 +1,5 @@
-import { validationConfig, btnListAddress, btnClick} from './constants.js';
+import './index.css';
+import { validationConfig, btnListAddress} from '../scripts/constants.js';
 import { Api } from '../components/Api.js';
 import { Address } from '../components/Address.js';
 import { SectionAddress } from '../components/SectionAddress.js';
